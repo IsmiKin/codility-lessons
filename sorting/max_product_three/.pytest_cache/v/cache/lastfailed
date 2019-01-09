@@ -1,0 +1,7 @@
+{
+  "test.py::test_equilibrium_naturals[array0-60]": true,
+  "test.py::test_equilibrium_naturals[array1-10]": true,
+  "test.py::test_max_product_of_three[array0-10]": true,
+  "test.py::test_max_product_of_three[array1-10]": true,
+  "test.py::test_max_product_of_three[array2-20]": true
+}

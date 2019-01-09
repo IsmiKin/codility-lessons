@@ -1,0 +1,5 @@
+[
+  "test.py::test_is_properly_nested[([{}[]])-True]",
+  "test.py::test_is_properly_nested[([{}[(])])-False]",
+  "test.py::test_is_properly_nested[((((([[{}]][[[]]])))))-True]"
+]

@@ -1,0 +1,4 @@
+[
+  "test.py::test_fish_alives_in_river[fish_sizes0-fish_directions0-expected0]",
+  "test.py::test_fish_alives_in_river[fish_sizes1-fish_directions1-expected1]"
+]

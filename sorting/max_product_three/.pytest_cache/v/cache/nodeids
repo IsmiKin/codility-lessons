@@ -1,0 +1,5 @@
+[
+  "test.py::test_max_product_of_three[array0-60]",
+  "test.py::test_max_product_of_three[array1-30]",
+  "test.py::test_max_product_of_three[array2-30]"
+]
